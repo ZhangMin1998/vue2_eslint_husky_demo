@@ -36,6 +36,7 @@
   },
   "lint-staged": {
     "*.{vue,js,ts,tsx}": [
+      "prettier --write",
       "eslint"
     ]
   },
