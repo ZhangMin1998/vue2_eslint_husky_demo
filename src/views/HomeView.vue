@@ -16,7 +16,7 @@ export default {
   },
   methods: {
     aaa () {
-      // const aaa = 111
+      // const aaa = 111  okk
       // console.log(a)
       // "lint": "vue-cli-service lint",
     }
