@@ -15,10 +15,10 @@ export default {
     HelloWorld
   },
   methods: {
-    // aaa () {
-    //   const a = 111
-    //   console.log(a)
-    // }
+    aaa () {
+      const a = 111
+      // console.log(a)
+    }
   }
 }
 </script>
